@@ -1,0 +1,10 @@
+/.idea/
+/.gradle/
+/build/classes/
+/build/generated/
+/build/tmp/
+
+
+gradlew
+gradlew.bat
+settings.gradle
